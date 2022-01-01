@@ -1152,3 +1152,15 @@ Received Import Request.
   path: Assets/Materials/Door 1.mat
   artifactKey: Guid(9e18a6678b2a0474c9e05529c7e5e9ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Materials/Door 1.mat using Guid(9e18a6678b2a0474c9e05529c7e5e9ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bed9c63679c95be6de680d6fa624216') in 0.336105 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1125.212852 seconds.
+  path: Assets/XR/CustomEquirectangular.shader
+  artifactKey: Guid(3305e77163f524b4aaf1d5dac7f795fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/CustomEquirectangular.shader using Guid(3305e77163f524b4aaf1d5dac7f795fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2345ad219d41e469d6d0312203d88657') in 0.082937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 274.819941 seconds.
+  path: Assets/XR/FlipNormals.shader
+  artifactKey: Guid(3305e77163f524b4aaf1d5dac7f795fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/FlipNormals.shader using Guid(3305e77163f524b4aaf1d5dac7f795fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7960e9d22722ad4a6bf159d2aabcb7e') in 0.015408 seconds 
