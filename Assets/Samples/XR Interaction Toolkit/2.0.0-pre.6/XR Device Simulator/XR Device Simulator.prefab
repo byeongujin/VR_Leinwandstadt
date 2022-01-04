@@ -51,67 +51,67 @@ MonoBehaviour:
     type: 3}
   m_KeyboardZTranslateAction: {fileID: 8957443236229058949, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_ManipulateLeftAction: {fileID: 3215650258570939094, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_ManipulateLeftAction: {fileID: 3215650258570939094, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_ManipulateRightAction: {fileID: 138396950478516224, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_ManipulateRightAction: {fileID: 138396950478516224, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_ToggleManipulateLeftAction: {fileID: 2547216639932606815, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_ToggleManipulateLeftAction: {fileID: 2547216639932606815, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_ToggleManipulateRightAction: {fileID: 743384497930276301, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_ToggleManipulateRightAction: {fileID: 743384497930276301, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_ManipulateHeadAction: {fileID: -3619485213038975404, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_ManipulateHeadAction: {fileID: -3619485213038975404, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_MouseDeltaAction: {fileID: -1273072440521047205, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_MouseDeltaAction: {fileID: -1273072440521047205, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_MouseScrollAction: {fileID: 4546399164687744209, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_MouseScrollAction: {fileID: 4546399164687744209, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_RotateModeOverrideAction: {fileID: -8754530952185592012, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_RotateModeOverrideAction: {fileID: -8754530952185592012, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_ToggleMouseTransformationModeAction: {fileID: 3100586429251580691, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_ToggleMouseTransformationModeAction: {fileID: 3100586429251580691, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_NegateModeAction: {fileID: 1882878426541990298, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_NegateModeAction: {fileID: 1882878426541990298, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_XConstraintAction: {fileID: -8086843181801629294, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_XConstraintAction: {fileID: -8086843181801629294, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_YConstraintAction: {fileID: 5691479700773754790, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_YConstraintAction: {fileID: 5691479700773754790, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_ZConstraintAction: {fileID: 1644704167276153141, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_ZConstraintAction: {fileID: 1644704167276153141, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_ResetAction: {fileID: -2638007419058092452, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_ResetAction: {fileID: -2638007419058092452, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_ToggleCursorLockAction: {fileID: -2382836779261746822, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_ToggleCursorLockAction: {fileID: -2382836779261746822, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_ToggleDevicePositionTargetAction: {fileID: -6716103979869350223, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_ToggleDevicePositionTargetAction: {fileID: -6716103979869350223, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_TogglePrimary2DAxisTargetAction: {fileID: -7682297331024740639, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_TogglePrimary2DAxisTargetAction: {fileID: -7682297331024740639, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_ToggleSecondary2DAxisTargetAction: {fileID: 1155009490345466815, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_ToggleSecondary2DAxisTargetAction: {fileID: 1155009490345466815, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_Axis2DAction: {fileID: 3916730463652292459, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_Axis2DAction: {fileID: 3916730463652292459, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_RestingHandAxis2DAction: {fileID: 3286401898038372283, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_RestingHandAxis2DAction: {fileID: 3286401898038372283, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_GripAction: {fileID: -681151063944262417, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_GripAction: {fileID: -681151063944262417, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_TriggerAction: {fileID: -2775837120590753941, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_TriggerAction: {fileID: -2775837120590753941, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_PrimaryButtonAction: {fileID: -160020527567978557, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_PrimaryButtonAction: {fileID: -160020527567978557, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_SecondaryButtonAction: {fileID: -5294950080248747617, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_SecondaryButtonAction: {fileID: -5294950080248747617, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_MenuAction: {fileID: 885331191818821413, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_MenuAction: {fileID: 885331191818821413, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_Primary2DAxisClickAction: {fileID: -2837746240632994702, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_Primary2DAxisClickAction: {fileID: -2837746240632994702, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_Secondary2DAxisClickAction: {fileID: -7174462898626817516, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_Secondary2DAxisClickAction: {fileID: -7174462898626817516, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_Primary2DAxisTouchAction: {fileID: -5833971730023712372, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_Primary2DAxisTouchAction: {fileID: -5833971730023712372, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_Secondary2DAxisTouchAction: {fileID: 2328165288370724080, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_Secondary2DAxisTouchAction: {fileID: 2328165288370724080, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_PrimaryTouchAction: {fileID: 2841133684394947652, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_PrimaryTouchAction: {fileID: 2841133684394947652, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
-  m_SecondaryTouchAction: {fileID: -8190023648362360997, guid: da2b439d1a2de5c46a4f428f8cf4fe19,
+  m_SecondaryTouchAction: {fileID: -8190023648362360997, guid: faa4ad692360946e5a8b2e53f4a6df56,
     type: 3}
   m_CameraTransform: {fileID: 0}
   m_KeyboardTranslateSpace: 0
@@ -140,4 +140,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_ActionAssets:
-  - {fileID: -944628639613478452, guid: da2b439d1a2de5c46a4f428f8cf4fe19, type: 3}
+  - {fileID: -944628639613478452, guid: faa4ad692360946e5a8b2e53f4a6df56, type: 3}
