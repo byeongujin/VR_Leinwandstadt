@@ -10707,14 +10707,6 @@ MonoBehaviour:
         m_Groups: 
         m_Action: Position
         m_Flags: 0
-      - m_Name: 
-        m_Id: 9974d6a6-278c-4293-9096-904791c56bbe
-        m_Path: <OculusHMD>/devicePosition
-        m_Interactions: 
-        m_Processors: 
-        m_Groups: 
-        m_Action: Position
-        m_Flags: 0
       m_Flags: 0
     m_Reference: {fileID: 0}
   m_RotationInput:
@@ -10730,14 +10722,6 @@ MonoBehaviour:
       - m_Name: 
         m_Id: 4bccf836-53b2-4777-9c99-40354e3b091e
         m_Path: <XRHMD>/centerEyeRotation
-        m_Interactions: 
-        m_Processors: 
-        m_Groups: 
-        m_Action: Rotation
-        m_Flags: 0
-      - m_Name: 
-        m_Id: b75670a8-aea0-46b6-b064-a5dfad33d652
-        m_Path: <OculusHMD>/deviceRotation
         m_Interactions: 
         m_Processors: 
         m_Groups: 
