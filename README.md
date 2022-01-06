@@ -61,7 +61,7 @@ Watch [Demo video](https://drive.google.com/file/d/1SyA3gKRYGYjRJNVwU3CkfYQPkDda
 
 ### Installation
 
-1. app. Download [Here](https://drive.google.com/file/d/1V2_PGKVByO-QIMd220-Oo_Ye9R2zTQ-J/view?usp=sharing)
+1. app. Download [Here](https://drive.google.com/file/d/1Pse4sHlVxt_u4ghdTgaeVe7KFlfUMy0X/view?usp=sharing)
 2. Install on your Oculus Quest through Oculus Link app
 3. Play
 
