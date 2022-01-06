@@ -33,9 +33,9 @@ Berlin's street art VR project
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src ="https://github.com/byeongujin/VR_UnserHaus/blob/main/images/screenshot1.png" width = "600" height = "400">
-<img src ="https://github.com/byeongujin/VR_UnserHaus/blob/main/images/screenshot2.png" width = "600" height = "400">
-<img src ="https://github.com/byeongujin/VR_UnserHaus/blob/main/images/screenshot3.png" width = "600" height = "400">
+<img src ="https://github.com/byeongujin/VR_Leinwandstadt/blob/main/images/screenshot1.png" width = "600" height = "400">
+<img src ="https://github.com/byeongujin/VR_Leinwandstadt/blob/main/images/screenshot2.png" width = "600" height = "400">
+<img src ="https://github.com/byeongujin/VR_Leinwandstadt/blob/main/images/screenshot3.png" width = "600" height = "400">
 
 Watch [Demo video](https://drive.google.com/file/d/1SyA3gKRYGYjRJNVwU3CkfYQPkDdaM377/view?usp=sharing)
 
