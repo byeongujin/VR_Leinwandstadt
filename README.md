@@ -107,6 +107,10 @@ English
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- ROADMAP -->
+## Problem & Solution
+- Camera fall after build : set Camera Y Offset on XR Origin
+
 
 
 <!-- CONTRIBUTING -->
