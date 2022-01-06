@@ -35,6 +35,7 @@ Berlin's street art VR project
 
 <img src ="https://github.com/byeongujin/VR_UnserHaus/blob/main/images/screenshot1.png" width = "600" height = "400">
 <img src ="https://github.com/byeongujin/VR_UnserHaus/blob/main/images/screenshot2.png" width = "600" height = "400">
+<img src ="https://github.com/byeongujin/VR_UnserHaus/blob/main/images/screenshot3.png" width = "600" height = "400">
 
 Watch [Demo video](https://drive.google.com/file/d/1SyA3gKRYGYjRJNVwU3CkfYQPkDdaM377/view?usp=sharing)
 
@@ -74,10 +75,13 @@ Click the Paintings and visit the places that can be see murals.
 
 * visitable places
   ```
-  * Kantstraße
-  * Kottbusser Tor
-  * Bayerisches Viertel
-  * Afrikanisches Viertel
+  * Luckauer Strasse 12
+  * Luckauer Strasse 14
+  * Gitschner Strasse 64
+  * Ritterstrasse 117
+  * Prinzenstrasse 19
+  * Bergfriedstrasse 20
+  * Wassertorstrasse 65
   ```
 
 For more information, please refer to the [Project Hompage](http://oktopusmagazine.com/vrproject)
