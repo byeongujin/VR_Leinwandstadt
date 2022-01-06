@@ -22,6 +22,7 @@ Berlin's street art VR project
     <li><a href="#usage">Usage</a></li>
     <li><a href="#language">Language</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#solutions">Solutions</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -107,11 +108,12 @@ English
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-## Problem & Solution
+<!-- SOLUTION -->
+## Solutions
+
 - Camera fall after build : set Camera Y Offset on XR Origin
 
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
