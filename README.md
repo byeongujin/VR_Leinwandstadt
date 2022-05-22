@@ -44,8 +44,10 @@ Watch [Demo video](https://drive.google.com/file/d/1a5FqB2tmIwHS-_KC43IbSa84sszT
 
 ### Built With
 
-* Unity 2021.2.7f1
+* Unity 2021.3.0f1
 * XR Interaction Toolkit
+* URP
+* 3D Model Asset: Art Gallery | Blue Dot Studios
 * C#
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -57,8 +59,8 @@ Watch [Demo video](https://drive.google.com/file/d/1a5FqB2tmIwHS-_KC43IbSa84sszT
 
 ### Prerequisites
 
-* Oculus Quest 1 or 2
-* Unser Haus app. for Oculus Quest 1 or 2
+* Oculus Quest 2
+* Unser Haus application
 
 ### Installation
 
