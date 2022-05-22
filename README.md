@@ -37,6 +37,7 @@ Berlin's street art VR project
 <img src ="https://github.com/byeongujin/VR_Leinwandstadt/blob/main/images/screenshot1.png" width = "600" height = "400">
 <img src ="https://github.com/byeongujin/VR_Leinwandstadt/blob/main/images/screenshot2.png" width = "600" height = "400">
 <img src ="https://github.com/byeongujin/VR_Leinwandstadt/blob/main/images/screenshot3.png" width = "600" height = "400">
+<img src ="https://github.com/byeongujin/VR_Leinwandstadt/blob/main/images/screenshot4.png" width = "600" height = "400">
 
 Watch [Demo video](https://drive.google.com/file/d/11bTJMVXQk4teZGWh0aA6or6VtHq_6Ulr/view?usp=sharing)
 
