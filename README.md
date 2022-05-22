@@ -38,7 +38,7 @@ Berlin's street art VR project
 <img src ="https://github.com/byeongujin/VR_Leinwandstadt/blob/main/images/screenshot2.png" width = "600" height = "400">
 <img src ="https://github.com/byeongujin/VR_Leinwandstadt/blob/main/images/screenshot3.png" width = "600" height = "400">
 
-Watch [Demo video](https://drive.google.com/file/d/1a5FqB2tmIwHS-_KC43IbSa84sszTRAAR/view?usp=sharing)
+Watch [Demo video](https://drive.google.com/file/d/11bTJMVXQk4teZGWh0aA6or6VtHq_6Ulr/view?usp=sharing)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -64,7 +64,7 @@ Watch [Demo video](https://drive.google.com/file/d/1a5FqB2tmIwHS-_KC43IbSa84sszT
 
 ### Installation
 
-1. app. Download [Here](https://drive.google.com/file/d/1Pse4sHlVxt_u4ghdTgaeVe7KFlfUMy0X/view?usp=sharing)
+1. app. Download [Here](https://drive.google.com/file/d/1GjAX8rfOY4LJwWSiOsb0EiMlEcikEU2H/view?usp=sharing)
 2. Install on your Oculus Quest through Oculus Link app
 3. Play
 
